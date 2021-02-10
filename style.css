@@ -1,0 +1,15 @@
+h3{
+  font-weight: 350;
+  color: white;
+
+}
+body{
+  background-color: grey;
+}
+h1{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+button{
+  margin-top: 10px ;
+}
